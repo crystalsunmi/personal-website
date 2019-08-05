@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  font-family: monospace;
+  background-image: url(https://imgur.com/qgvFHrV)
+}
+p {
+  font-style: italic;
+  font-size: 15px;
+  font-variant: small-caps;
+}
